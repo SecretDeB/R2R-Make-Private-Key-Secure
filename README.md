@@ -6,9 +6,9 @@ This repository includes the implementation of the R2R framework.
 ## Dependencies
 To build R2R, one needs to install the following:
   
-• Python v3.10
-• Streamlit framework v1.30 (pip install streamlit) To run locally
-• Run command streamlit run query_interface.py
+* Python v3.10
+* Streamlit framework v1.30 (pip install streamlit) To run locally
+* Run command streamlit run query_interface.py
 ## Set Bloom Filter Parameters
 Under operation Manage Parameter, users can choose to set Bloom filters parameters mentioned below:
 • Choose the type of hash function used to insert/lookup from the Bloom filter (SHA256 or SHA512), from the dropdown menu.
