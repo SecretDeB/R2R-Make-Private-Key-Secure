@@ -4,12 +4,10 @@ This repository includes the implementation of the R2R framework.
 
 </b> NOTICE: </b> This is an academic proof-of-concept prototype and has not received careful code review. This implementation is NOT ready for production use.
 ## Dependencies
-* To build R2R, one needs to install the following:
+To build R2R, one needs to install the following:
   
 • Python v3.10
-
 • Streamlit framework v1.30 (pip install streamlit) To run locally
-
 • Run command streamlit run query_interface.py
 ## Set Bloom Filter Parameters
 Under operation Manage Parameter, users can choose to set Bloom filters parameters mentioned below:
