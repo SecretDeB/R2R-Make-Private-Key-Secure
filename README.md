@@ -13,6 +13,7 @@ To build R2R, one needs to install the following:
 Under operation Manage Parameter, users can choose to set Bloom filters parameters mentioned below:
 * Choose the type of hash function used to insert/lookup from the Bloom filter (SHA256 or SHA512), from the dropdown menu.
 * Choose the number of security questions for encoding the private key, from the dropdown menu. Users can choose between 5 to 12 security questions.
+  
 Note: If no values are updated, default values are considered.
 ## Store Private Key into Bloom Filter
 Under operation Store Private key, user can set below fields:
